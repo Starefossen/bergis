@@ -1,0 +1,35 @@
+{
+  "name": "Bergis",
+  "version": "1.0.0",
+  "description": "School districts in Bergen, Norway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Starefossen/bergis.git"
+  },
+  "keywords": [
+    "Norway",
+    "Bergen",
+    "School",
+    "GIS",
+    "Map",
+    "Data",
+    "Kartverket"
+  ],
+  "author": "Hans Kristian Flaatten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Starefossen/bergis/issues"
+  },
+  "homepage": "https://github.com/Starefossen/bergis",
+  "dependencies": {
+    "request": "^2.34.0",
+    "proj4": "^2.1.2",
+    "async": "^0.7.0",
+    "commander": "^2.2.0",
+    "coffee-script-redux": "^2.0.0-beta8"
+  }
+}
